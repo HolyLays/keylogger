@@ -1,6 +1,6 @@
 # Edit only this section!
 $TimesToRun = 2
-$RunTimeP = 1
+$RunTimeP = 60
 $From = "erlend07@outlook.com"
 $Pass = "CxZmNbV1"
 $To = "erlend07@outlook.com"
